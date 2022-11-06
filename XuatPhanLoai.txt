@@ -1,0 +1,12 @@
+
+							      DANH SACH CAC PHAN LOAI
+							 -----------------------------
+							 |Ma Phan Loai| Ten Phan Loai|
+							 -----------------------------
+							 |           1|    Dan Guitar|
+							 |           2|      Dan Dien|
+							 |           3|      Phu Kien|
+							 |           4|           Day|
+							 |           5|       Bao Dan|
+							 |           6|           Loa|
+							 -----------------------------

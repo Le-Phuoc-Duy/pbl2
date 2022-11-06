@@ -1,0 +1,4 @@
+12, Nguyen Thi Tra, My, Nu, 19/11/2003, 0853171684, 3/1 Au Co, Ban hang, 7000000
+115, Le Phuoc, Duy, Nam, 1/01/2003, 0123456789, abc, Quan kho, 5500000
+69, Trung, Duc, Nam, 1/01/2000, 0654846486, hoa vang, Ban hang, 7000000
+2, Nguyen Van, B, Nam, 2/02/2001, 0654846486, hoa, Ban hang, 7000000
