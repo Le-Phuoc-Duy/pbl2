@@ -1,4 +1,3 @@
-////////////////////abc
 #include "QuanLyHang.h"
 #include "QuanLyNV.h"
 #include "QuanLyKH.h"
